@@ -1,7 +1,13 @@
 <?php
+/*
+ * @Author: Yu Jian
+ * @Date: 2020-04-22 12:34:03
+ * @Email: 41542066@qq.com
+ */
+
 declare (strict_types = 1);
 
-namespace app;
+namespace app\core\controller;
 
 use think\App;
 use think\exception\ValidateException;
